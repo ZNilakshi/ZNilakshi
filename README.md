@@ -1,5 +1,10 @@
-<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/i-love-coding-3840x2160-22814.png?raw=true" alt="profile picture" style="border-radius:50%; width:150px;">
+<!-- Cover Photo -->
+<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/i-love-coding-3840x2160-22814.png?raw=true" alt="cover photo" style="width:100%; height:auto;">
 
+<!-- Profile Picture & Introduction -->
+<p align="center">
+  <img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/your-profile-picture.png" alt="profile picture" style="border-radius:50%; width:150px;">
+</p>
 
 # Hey there! 👋 I'm Nilakshi
 
@@ -22,33 +27,31 @@
 
 ---
 
-### 🔧 My Stack & Skills
-
-```js
-const coder = {
-  name: "[Your Name]",
-  company: "[Your Company]",
-  location: "[Your Location]",
-  followers: [Your Follower Count],
-  following: [Number of Users You Follow],
-  repositories: [Number of Repositories],
-  skills: ['React', 'Next.js', 'Redux', 'Express', 'MongoDB', 'MySQL', 'Postgres', 'Docker', 'AWS'],
-  hireable: true
-};
-
-
 ---
 
 ### 🔧 My Stack & Skills
 
-```js
-const coder = {
-  name: "[Your Name]",
-  company: "[Your Company]",
-  location: "[Your Location]",
-  followers: [Your Follower Count],
-  following: [Number of Users You Follow],
-  repositories: [Number of Repositories],
-  skills: ['React', 'Next.js', 'Redux', 'Express', 'MongoDB', 'MySQL', 'Postgres', 'Docker', 'AWS'],
-  hireable: true
-};
+<p align="center">
+  <!-- Frontend Skills -->
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  
+  <!-- Backend Skills -->
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+---
+
+### 📈 GitHub Statistics
+
+
