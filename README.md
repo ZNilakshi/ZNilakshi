@@ -1,5 +1,5 @@
 <!-- Cover Photo -->
-<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/i-love-coding-3840x2160-22814.png?raw=true" alt="cover photo" style="width:100%; height:auto;">
+<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/i-love-coding-3840x2160-22814.png?raw=true" alt="cover photo" style="width:1000px; height:15px;">
 
 <!-- Profile Picture & Introduction -->
 <p align="center">
