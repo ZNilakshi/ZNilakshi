@@ -1,5 +1,5 @@
 <!-- Cover Photo -->
-<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/nn.png?raw=true" alt="cover photo" style="width:100%; height:auto;">
+<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/nn.png?raw=true" alt="cover photo" style="width:80%; height:auto;">
 
 
 # Hey there! 👋 I'm Nilakshi
@@ -59,35 +59,3 @@
 </p>
 
 
-<!-- Custom Badges for Stats -->
-<h3 align="center">Nilakshi's GitHub Stats</h3>
-
-<p align="center">
-  <!-- Total Stars -->
-  <img alt="Total Stars" src="https://img.shields.io/badge/Total%20Stars-1k-brightgreen?style=flat-square">
-  
-  <!-- Total Commits -->
-  <img alt="Total Commits" src="https://img.shields.io/badge/Total%20Commits-2.6k-blue?style=flat-square">
-  
-  <!-- Total PRs -->
-  <img alt="Total PRs" src="https://img.shields.io/badge/Total%20PRs-9-blueviolet?style=flat-square">
-  
-  <!-- Total Issues -->
-  <img alt="Total Issues" src="https://img.shields.io/badge/Total%20Issues-1-red?style=flat-square">
-  
-  <!-- Contribution Count -->
-  <img alt="Contributed Last Year" src="https://img.shields.io/badge/Contributed%20to%20Last%20Year-3-yellow?style=flat-square">
-</p>
-
-<!-- GitHub PR Stats -->
-<p align="center">
-  <img alt="Total PRs Merged" src="https://img.shields.io/badge/Total%20PRs%20Merged-9-brightgreen?style=flat-square">
-  <img alt="Merged PRs %" src="https://img.shields.io/badge/Merged%20PRs%20Percentage-100%25-orange?style=flat-square">
-  <img alt="PRs Reviewed" src="https://img.shields.io/badge/PRs%20Reviewed-0-red?style=flat-square">
-</p>
-
-<!-- Discussions Stats -->
-<p align="center">
-  <img alt="Discussions Started" src="https://img.shields.io/badge/Total%20Discussions%20Started-1-blue?style=flat-square">
-  <img alt="Discussions Answered" src="https://img.shields.io/badge/Total%20Discussions%20Answered-0-lightgrey?style=flat-square">
-</p>
