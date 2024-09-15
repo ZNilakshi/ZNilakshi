@@ -1,10 +1,6 @@
 <!-- Cover Photo -->
-<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/i-love-coding-3840x2160-22814.png?raw=true" alt="cover photo" style="width:1000px; height:15px;">
+<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/i-love-coding-3840x2160-22814.png?raw=true" alt="cover photo" style="width:1000px; height:500px;">
 
-<!-- Profile Picture & Introduction -->
-<p align="center">
-  <img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/your-profile-picture.png" alt="profile picture" style="border-radius:50%; width:150px;">
-</p>
 
 # Hey there! 👋 I'm Nilakshi
 
