@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/vR75piz" alt="profile picture" style="border-radius:50%; width:150px;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercg.com%2Fcoding-wallpapers&psig=AOvVaw2hpxraiJMj_gjFZ-8ZrbY1&ust=1726488422857000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODa0eD0xIgDFQAAAAAdAAAAABAE" alt="profile picture" style="border-radius:50%; width:150px;">
 
 
 # Hey there! 👋 I'm Nilakshi
