@@ -1,5 +1,5 @@
 <!-- Cover Photo -->
-<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/nn.png?raw=true" alt="cover photo" style="width:80%; height:auto;">
+<img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/nn.png?raw=true" alt="cover photo" style="width:100%; height:25%;">
 
 
 # Hey there! 👋 I'm Nilakshi
