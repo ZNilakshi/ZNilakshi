@@ -7,10 +7,10 @@
 ⚡ Crazy programmer! Professional & ambitious. I love the wide range of software engineering stacks that include frontend, backend, and DevOps. 🚀
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nilakshi-samarasekara-368642252" target="_blank">
+  <a href="[https://www.linkedin.com/in/nilakshi-samarasekara-368642252](http://www.linkedin.com/in/Znilakshi)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-website.com" target="_blank">
+  <a href="[https://your-website.com](https://znilakshi.vercel.app/)" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:nilakshisamarasekara0@gmail.com">
@@ -20,7 +20,6 @@
 
 ---
 
----
 
 ### 🔧 My Stack & Skills
 
@@ -31,11 +30,13 @@
  
   <!-- Backend Skills -->
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
   <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
- 
- </p>
+</p>
 
 ---
 
