@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://github.com/ZNilakshi/ZNilakshi/blob/main/nn.png?raw=true" alt="cover photo" width="100%" style="border-radius: 15px;">
 </p>
-
 <p align="center">
-  <img src="https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2F267e76a5-17d4-498c-8438-232128796856.gif&w=640&q=75" width="250" />
-  <h1 align="center">✨ Hey there! I'm Nilakshi ✨</h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/greetings.gif" width="300px">
+</p>
+<p align="center">
+  <h1 align="center"> Hey there! I'm Nilakshi ✨</h1>
 </p>
 
 <p align="center">
